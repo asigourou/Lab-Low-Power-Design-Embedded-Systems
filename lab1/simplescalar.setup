@@ -1,0 +1,2 @@
+export PATH=/Software/lopolab/simplescalar/bin/:$PATH
+export PATH=/Software/lopolab/simplescalar/sim-wattch-1.02d/:$PATH
